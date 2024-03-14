@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my_services/static/css/main.356b8ad2.css",
+    "main.js": "/my_services/static/js/main.007239e9.js",
+    "static/media/webtoon.gif": "/my_services/static/media/webtoon.06dfc14be6728808af5b.gif",
+    "static/media/a4.jpeg": "/my_services/static/media/a4.a3806f1ad5ae5c9b59a5.jpeg",
+    "static/media/a5.jpeg": "/my_services/static/media/a5.28d8df27ac733c47d786.jpeg",
+    "static/media/a3.jpeg": "/my_services/static/media/a3.2e0b516cba380dcb20bd.jpeg",
+    "static/media/a2.jpeg": "/my_services/static/media/a2.bb1b4f25e3e1bc833cb6.jpeg",
+    "static/media/a1.jpeg": "/my_services/static/media/a1.856d4d2abd66f2f1899e.jpeg",
+    "static/media/a6.jpeg": "/my_services/static/media/a6.9b231a72745fc3fcfac5.jpeg",
+    "static/media/photo.jpg": "/my_services/static/media/photo.c9cc95d59bbc287f7e99.jpg",
+    "index.html": "/my_services/index.html",
+    "main.356b8ad2.css.map": "/my_services/static/css/main.356b8ad2.css.map",
+    "main.007239e9.js.map": "/my_services/static/js/main.007239e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.356b8ad2.css",
+    "static/js/main.007239e9.js"
+  ]
+}
