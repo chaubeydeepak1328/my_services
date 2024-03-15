@@ -1,6 +1,6 @@
 import web from "../src/images/a1.jpeg";
 import app from "../src/images/a2.jpeg";
-import android from "../src/images/a3.jpeg";
+import DataScience from "../src/images/a3.jpeg";
 import digital from "../src/images/a4.jpeg";
 import Marketing from "../src/images/a5.jpeg";
 import Software from "../src/images/a6.jpeg";
@@ -17,9 +17,9 @@ const Sdata = [
         content: "Mobile apps have become essential tools for businesses to engage with their customers on the go. Our app development team specializes in creating user-friendly and innovative mobile applications that enhance your brand's visibility and customer experience."
     },
     {
-        imgsrc: android,
-        title: "Android Development",
-        content: "With the majority of smartphone users using Android devices, investing in Android app development can significantly expand your reach. Our Android development services focus on building high-quality, performance-driven apps tailored to your business goals."
+        imgsrc: DataScience,
+        title: "Data Science", 
+        content: "Data science empowers businesses to extract actionable insights from large datasets, enabling informed decision-making and predictive analytics. Our data science services encompass data collection, cleaning, analysis, and visualization, helping you uncover valuable insights to drive business growth."
     },
     {
         imgsrc: digital,
