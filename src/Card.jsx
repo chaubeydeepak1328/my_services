@@ -12,7 +12,7 @@ const Card = (props) => {
                         <p className="card-text">{props.content}</p>
                         <NavLink to="" className="btn btn-primary">Go somewhere</NavLink>
                     </div>
-                </div>
+                </div> 
             </div>
         </>
     )
