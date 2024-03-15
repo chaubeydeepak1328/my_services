@@ -5,7 +5,7 @@ import Commom from "./Commom";
 const Home = () => {
     return (
         <>
-           <Commom name="Grow Your business with " imgsrc={web} visit="/services" btname=" Get Stated" />
+           <Commom title="Grow Your business with " imgsrc={web} visit="/services" name="Deepak chaubey" btname=" Get Stated" content="We are the Team of Talentes developer Making websites" />
         </>
     )
 }

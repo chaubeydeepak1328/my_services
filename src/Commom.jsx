@@ -10,8 +10,8 @@ const Commom = (props) => {
                         <div className="col-10 mx-auto">
                             <div className="row">
                                 <div className="col-md-6 pt-5 pt-lg-9 order-2 order-lg-1 d-flex flex-column justify-content-center">
-                                    <h1>{props.name}<strong className="brand_name">Deepak chaubey</strong></h1>
-                                    <h2 className="my-3">We are the Team of Talentes developer Making websites</h2>
+                                    <h1>{props.title}<strong className="brand_name">{props.name}</strong></h1>
+                                    <h2 className="my-3">{props.content}</h2>
                                     <div className="mt-3">
                                         <NavLink to={props.visit} className="btn btn-get-started ">{props.btname}</NavLink>
                                     </div>
