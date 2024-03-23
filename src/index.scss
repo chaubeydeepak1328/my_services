@@ -53,6 +53,16 @@
 Main Landing Section 
 ============================================================================================ */
 
+@media (min-width:992px)
+{
+    .home_section{
+        margin-top: -7rem;
+    }
+    .About_section{
+        margin-top: -7rem;
+    }
+}
+
 #header {
     width: 100%;
     height: 80vh;
@@ -70,6 +80,7 @@ Main Landing Section
 
 #header .brand_name {
     color: #3498db;
+    font-size: 2rem;
 }
 
 #header h2 {
